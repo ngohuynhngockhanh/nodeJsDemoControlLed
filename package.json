@@ -1,0 +1,19 @@
+{
+  "name": "nodejsdemocontrolled",
+  "version": "1.0.0",
+  "description": "Hướng dẫn điều khiển từ xa bằng nodejs + johnny-five + socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngohuynhngockhanh/nodeJsDemoControlLed.git"
+  },
+  "author": "Ngô Huỳnh Ngọc Khánh",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ngohuynhngockhanh/nodeJsDemoControlLed/issues"
+  },
+  "homepage": "https://github.com/ngohuynhngockhanh/nodeJsDemoControlLed#readme"
+}
