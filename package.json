@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/ngohuynhngockhanh/nodeJsDemoControlLed/issues"
   },
-  "homepage": "https://github.com/ngohuynhngockhanh/nodeJsDemoControlLed#readme"
+  "homepage": "https://github.com/ngohuynhngockhanh/nodeJsDemoControlLed#readme",
+   "dependencies" : {
+	"johnny-five": "latest",
+	"socket.io": "latest",
+	"express": "latest"
+   }
 }
